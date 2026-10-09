@@ -1,0 +1,21 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
